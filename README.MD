@@ -22,7 +22,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://tenor.com/view/gif-27396221' title='Learn Android Studio' width='' alt='Video Walkthrough' />
+<img src='![test](https://user-images.githubusercontent.com/74503671/212445233-463f3e2b-3dc6-4cc2-b09e-c380db55c238.gif)
+' title='Learn Android Studio' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
