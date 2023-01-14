@@ -21,9 +21,7 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='![test](https://user-images.githubusercontent.com/74503671/212445233-463f3e2b-3dc6-4cc2-b09e-c380db55c238.gif)
-' title='Learn Android Studio' width='' alt='Video Walkthrough' />
+![test](https://user-images.githubusercontent.com/74503671/212445283-1381f9fe-54c4-4ece-811b-dad068bd6f11.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
